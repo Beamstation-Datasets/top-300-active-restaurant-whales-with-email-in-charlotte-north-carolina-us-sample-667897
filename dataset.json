@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
+  "config_name": "Top 300 Active Restaurant Whales with Email in Charlotte, North Carolina, US",
+  "export_job_id": "8d6907b7-3c2e-4bc5-bec4-956327ac50ac",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 667897,
+  "location_name": "Charlotte",
+  "location_type": "city",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-charlotte-north-carolina-us-sample-667897",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/667897/beamstation_667897_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 30,
+  "sample_sha256": "8e06701a2e5363a7bb96f61dd0b4d9ecc1e68f44889ee6d94f2a391dffdfa573",
+  "sample_size_bytes": 144586,
+  "total_records": 300,
+  "updated_at": "2026-04-07T17:40:31.438566+00:00"
+}
