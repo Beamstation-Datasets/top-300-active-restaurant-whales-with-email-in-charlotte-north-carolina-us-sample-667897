@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8d6907b7-3c2e-4bc5-bec4-956327ac50ac",
+  "export_job_id": "7c13bc5a-f88a-4fe9-91b7-38edb8d2f71d",
   "id_short": 667897,
-  "published_at": "2026-04-14T19:33:44Z",
+  "published_at": "2026-04-18T19:39:41Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-charlotte-north-carolina-us-sample-667897",
   "sample_asset_name": "beamstation_667897_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/667897/beamstation_667897_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_records": 30,
-  "sample_sha256": "8e06701a2e5363a7bb96f61dd0b4d9ecc1e68f44889ee6d94f2a391dffdfa573",
-  "sample_size_bytes": 144586,
+  "sample_sha256": "2afd09ba08e5bfca7a4cc5cf55529a250d0b56979040f2b221c0c7dfcef496ba",
+  "sample_size_bytes": 141308,
   "total_records": 300
 }
